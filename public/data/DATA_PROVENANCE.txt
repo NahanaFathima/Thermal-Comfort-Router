@@ -1,0 +1,1 @@
+OPENSTREETMAP WALKING NETWORK AND BUILDINGS. Heights include documented fallbacks. Shadow polygons and edge exposures are estimates calculated using SunCalc 2.x and Turf.js; not measured thermal comfort. © OpenStreetMap contributors (ODbL).

@@ -1,0 +1,17 @@
+:root{
+  --navy:#0B1426;--charcoal:#1B2433;--gold:#F5B841;--sand:#F3E3C3;
+  --shade:#10B981;--shade-dark:#047857;--short:#F97316;--short-dark:#C2410C;
+  --ground:#EFE7D6;--roads:#FBF6EA;--road-lines:#DCCFB2;--shadow:#1C3463;
+  --origin:#0EA5E9;--glass:rgba(11,20,38,.90);--muted:rgba(243,227,195,.62);
+  --sunny:#F5B841;--covered:#1F6F62;
+  --loading:#38BDF8;--warning:#F59E0B;--error:#EF4444;--success:#10B981;
+  --display:'Bricolage Grotesque','Segoe UI',system-ui,sans-serif;
+  --body:'DM Sans','Segoe UI',system-ui,sans-serif;
+}
+*{box-sizing:border-box}
+html,body,#root{margin:0;min-width:320px;width:100%;height:100%;}
+body{font-family:var(--body);font-weight:400;background:var(--navy)}
+button,input{font:inherit}
+button{cursor:pointer}
+button:disabled{opacity:.33;cursor:not-allowed}
+button:focus-visible,input:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
