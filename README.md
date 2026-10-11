@@ -215,7 +215,7 @@ Thermal-Comfort-Router/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Thermal-Comfort-Router.git
+git clone https://github.com/NahanaFathima/Thermal-Comfort-Router.git
 ```
 
 ### 2. Navigate to the Project
